@@ -1,0 +1,27 @@
+The next two topics to cover are sample rate and bit depth.
+
+Sample Rate:
+Sample rate is literally how fast samples are taken per second and are usually expressed in kHz, which is a unit meaning 1,000 times per second.
+Audio CD's, for example, have a sample rate of 44.1kHz, meaning that the analog signal is sampled 44,100 times per second.
+44.1kHz is used because the highest frequency that can be captured and stored is a bit less than half of the sampling frequency, or around 22kHz.
+Also, the accepted standard for the human hearing range is from 20 Hertz to 20,000 Hertz (or 20kHz), though in practice, most of us don’t hear frequencies that high.
+
+**But why 44.1kHz?**
+Good question. According to what i have heard from family members who have worked in digital audio, 48 kHz was the "professional" standard.
+And manufacturers wanted there to be a "consumer sample rate" of 44.1kHz to prevent direct digital copying.
+
+**But if 44.1kHz captures more than we can hear, why would you use a higher sample rate like 48kHz?**
+There are a couple of reasons that higher sampling rates can be advantageous; 
+the first is that while 44.1kHz is the standard for audio CDs, 48kHz is the standard for audio for video.
+Some studios might use even higher sample rates like 88.2kHz, 96kHz or even 192kHz
+And just so you know, the difference between "standard" and "professional" sample rates is minimal at best. Usually when i have compared the two,
+there was no real discernible difference from what i could hear, except on a few occasions.
+
+Now lets move on to Bit Depth:
+bit depth is the number of bits of information in each sample, and it directly corresponds to the resolution of each sample.
+CD's use 16 bits per sample, and DVD/blu ray discs can support up to 24 bits per sample.
+To put this as simply as possible:
+The on/off status of each switch in a computer is represented as 1 or 0, a system known as binary. Thus, a string of binary digits —bits— is used to describe anything a computer does, including manipulating and displaying text, images, and audio.
+Computers can manage entire strings of these bits at a time; a group of 8 bits is known as a byte; one or more bytes compose a digital word. Sixteen bits (two bytes) means that there are 16 digits in a word, each of them a 1 or 0; 24 bits (three bytes) means that there are 24 binary digits per word; and so on.
+
+a higher bit depth enables the system to accurately record and reproduce more subtle fluctuations in the waveform, thus, the higher the bit depth, the more accurately a sound can be recreated.
