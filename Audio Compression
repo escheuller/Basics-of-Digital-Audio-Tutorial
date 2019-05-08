@@ -1,0 +1,10 @@
+Just like an image or any other type of file, compression can be used to reduce the size of the file. And, as with images, compression can be lossy or lossless.
+examples of lossless compression: FLAC (Free lossless audio codec), ALAC (Apple lossless audio codec), WMA lossless (Microsoft Windows Media Audio 9 lossless)
+example of lossy compression: MP3
+
+**so whats the difference?**
+Glad you asked. Lossless compression means that as the file size is compressed, the picture quality remains the same - it does NOT get worse and can also be decompressed to its original quality.
+Lossless is "the perfect copy of the original sound"
+Lossy compression reduces the size of an original file up to 10 times, so if the file is 1000MB, it will compress down to 100MB
+the problem with this is that some audio data is irreversibly lost so it will make your audio sound lacking.
+Most people will prefer lossless because it has a clearer sound, but lossy is useful because it makes it possible to store thousands of songs on a single external drive.
