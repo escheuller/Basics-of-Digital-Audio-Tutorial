@@ -1,0 +1,11 @@
+The first thing we should touch on is what exactly digital audio is. 
+Well if you want the "formal" definition, digital audio is an audio signal that has been recorded as a sequence of numbers.
+The sound wave of the audio signal is encoded as numerical samples in a continuous sequence.
+
+Ok, cool, but what does that even mean?
+Basically digital audio is the technology that is used to record, store, manipulate and generate **sounds** using the audio signals that have been digitally encoded.
+
+Notice that i bolded sound. This is because sound is **NOT** the same as audio.
+Sound is made up of vibrations that move through gas, liquid or solid as pressure changes. A microphone will detect these changes in pressure and create electronic signals corresponding to these changes.
+
+There's not too much more to say here, but I will leave you with this: When creating a digital audio, tens of thousands of samples are taken per second. The number of samples taken per second is known as sample rate, and it directly impacts the quality of the digital audio.
